@@ -86,7 +86,7 @@ nav{
 .fa-recycle {
     position: absolute; /* Position the icon absolutely within the container */
     top: 9%; /* Move the icon 50% from the top */
-    left: 5%; /* Adjust the left position as needed */
+    left: 4%; /* Adjust the left position as needed */
     transform: translateY(-50%); /* Center the icon vertically using translateY and transform */
 }
 
